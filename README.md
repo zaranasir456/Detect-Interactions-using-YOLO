@@ -1,2 +1,9 @@
 # Detect-Interactions-using-YOLO
 Object detection is a very critical task to do in computer vision and machine learning. In this project, we will be using YOLO Algorithm for object detection on a custom dataset. The model will be evaluated on the basis of standard metrics.
+# Methodology
+To achieve this objective, the project will have several steps including dataset preparation, data augmentation, model training, and performance evaluation. The project will use a custom dataset specific for this purpose. The dataset will be augmented using various techniques to increase diversity and complexity. The dataset will be broken into train, test, and validation set. The trained data will be evaluated using a validation dataset and measure the accuracy using standard metrics such as precision, recall, mean average precision mAP. Here is the block diagram for the project shown in figure 1;To achieve this objective, the project will have several steps including dataset preparation, data augmentation, model training, and performance evaluation. The project will use a custom dataset specific for this purpose. The dataset will be augmented using various techniques to increase diversity and complexity. The dataset will be broken into train, test, and validation set. The trained data will be evaluated using a validation dataset and measure the accuracy using standard metrics such as precision, recall, mean average precision mAP.
+# Dataset
+You can request the custom dataset here.
+https://app.roboflow.com/yolo-touch-project/touch-detection1/3
+# Conclusion
+The performance of YOLOv5 till now is really impressive. We have successfully trained the model on a custom dataset and achieved a really good accuracy. YOLOv5 has been very fast and proved to be very powerful in object detection. With further experimenting, we can improve the accuracy of the model and make it useful for real-world applications
